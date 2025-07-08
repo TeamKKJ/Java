@@ -31,4 +31,10 @@ HOURS
 MINUTES
 }
 
+class GunData {
+    size
+    type
+    count
+}
+
 @enduml
