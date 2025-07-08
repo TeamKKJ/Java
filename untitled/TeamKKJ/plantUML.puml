@@ -31,4 +31,10 @@ HOURS
 MINUTES
 }
 
+
+
+class Gun {
+String shoot
+}
+
 @enduml
