@@ -1,6 +1,7 @@
 @startuml
 'https://plantuml.com/class-diagram
 
+scale 3
 abstract class AbstractList
 abstract AbstractCollection
 interface List
