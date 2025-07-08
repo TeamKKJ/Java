@@ -17,7 +17,9 @@ class ArrayList {
 Object[] elementData
 size()
 }
+class GMTech {
 
+}
 enum TimeUnit {
 DAYS
 HOURS
