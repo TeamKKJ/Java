@@ -1,6 +1,7 @@
 @startuml
 'https://plantuml.com/class-diagram
 
+scale 3
 abstract class AbstractList
 abstract AbstractCollection
 interface List
@@ -12,6 +13,12 @@ Collection <|-- AbstractCollection
 Collection <|- List
 AbstractCollection <|- AbstractList
 AbstractList <|-- ArrayList
+
+class Test {
+    haewon
+    minji
+    soyeon
+}
 
 class ArrayList {
 Object[] elementData
